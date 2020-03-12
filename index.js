@@ -1,1 +1,1 @@
-console.log("Welcome to Rock, Paper, Scissors 0 trying again!");
+console.log("Welcome to Rock, Paper, Scissors!");
